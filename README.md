@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Evan, a game developer from Chattanooga, TN. I've independently published 2 games so far:
+I'm Evan, a game developer and full-stack developer from Chattanooga, TN. I have been a full-time software engineer since 2018 and I have independently published 2 games so far:
 
 RetroMMO | Teleport Tower
 :-------------------------:|:-------------------------:
