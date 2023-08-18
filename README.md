@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Evan, a game developer and full-stack developer from Chattanooga, TN. I have been a full-time software engineer since 2018, and I have independently published 3 games so far:
+I'm Evan, a game developer and full-stack developer based out of Birmingham, AL. I have been a full-time software engineer since 2018, and I have independently published 3 games so far:
 
 RetroMMO | ScatterPaws | Teleport Tower
 :-------------------------:|:-------------------------:|:-------------------------:
