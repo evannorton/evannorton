@@ -1,6 +1,8 @@
 ### Hello! 👋
 
-I'm Evan, a game developer and full-stack developer based out of Birmingham, AL. I have been a full-time software engineer since 2018, and I have independently published 3 games so far:
+I'm Evan, a game developer and full-stack developer based out of Birmingham, AL. I've been a full-time software engineer since 2018. My current role a UI engineer position at City State Entertainment, working on their titles *Camelot Unchained* and *Final Stand: Ragnarök*.
+
+As an independent developer, I published an MMO project which I continue to maintain. I also participated in two game jams, both submissions winning awards. 
 
 RetroMMO | ScatterPaws | Teleport Tower
 :-------------------------:|:-------------------------:|:-------------------------:
