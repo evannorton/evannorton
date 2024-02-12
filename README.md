@@ -4,6 +4,8 @@ I'm Evan, a game developer and full-stack developer based out of Chattanooga, TN
 
 As an independent developer, I published an MMO project which I continue to maintain. I also participated in three game jams, each of my submissions winning awards.
 
+I maintain the ["Pixel Pigeon" game engine](https://github.com/evannorton/pixel-pigeon) which I use to develop my games.
+
 RetroMMO | Dungeon Deli
 :-------------------------:|:-------------------------:
 | [Live service game](https://retro-mmo.com) | [Bigmode Game Jam 2023 submission](https://itch.io/jam/bigmode-2023/rate/2421852)
