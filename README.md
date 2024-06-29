@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Evan, a game developer and full-stack developer based out of Chattanooga, TN. I've been a full-time software engineer since 2018. I currently work at [Unchained Entertainment](https://www.unchained-entertainment.com), primarily as a UI engineer for their titles Camelot Unchained and Final Stand: Ragnarök.
+I'm Evan, a game developer and full-stack developer based out of Birmingham, AL. I've been a full-time software engineer since 2018. I currently work at [Unchained Entertainment](https://www.unchained-entertainment.com), primarily as a UI engineer for their titles Camelot Unchained and Final Stand: Ragnarök.
 
 As an independent developer, I published an MMO project which I continue to run. I also participated in three game jams, each of my submissions winning awards.
 
