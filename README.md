@@ -6,10 +6,14 @@ As an independent developer, I published an MMO project which I continue to run.
 
 I maintain the ["Pixel Pigeon" game engine](https://github.com/evannorton/pixel-pigeon) which I use to develop my games.
 
+---
+
 |                                                   RetroMMO                                                   |
 | :----------------------------------------------------------------------------------------------------------: |
 |                                  [Live service game](https://retro-mmo.com)                                  |
 | [![RetroMMO](https://img.itch.zone/aW1nLzcyMzU1ODUucG5n/315x250%23c/Ciyyjl.png)](https://retro-mmo.com/play) |
+
+---
 
 | Circuit Break | Dungeon Deli | ScatterPaws | Teleport Tower |
 | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-: | :-: |
