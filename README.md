@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-I'm Evan, a game developer and full-stack developer based out of Birmingham, AL. I've been a full-time software engineer since 2018. I currently work at [Unchained Entertainment](https://www.unchained-entertainment.com), primarily as a UI engineer for their titles Camelot Unchained and Final Stand: Ragnarök.
+I'm Evan, a game developer and full-stack developer based out of Birmingham, AL. I've been a full-time software engineer since 2018. I currently work at a large U.S. bank as a full-stack engineer with a backend focus, using NextJS and MySQL.
 
-As an independent developer, I published an MMO project which I continue to run. I also participated in four game jams, three of my submissions winning awards.
+As an independent game developer, I published an MMO project which I continue to run. I also participated in four game jams, three of my submissions winning awards.
 
 I maintain the ["Pixel Pigeon" game engine](https://github.com/evannorton/pixel-pigeon) which I use to develop my games.
 
