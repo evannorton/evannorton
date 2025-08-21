@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Evan, a game developer and full-stack developer based out of Birmingham, AL. I've been a full-time software engineer since 2018. I currently work at a large U.S. bank as a full-stack engineer with a backend focus, using NextJS and MySQL.
+I'm Evan, a game developer and full-stack engineer based out of Birmingham, AL. I've been a full-time software engineer since 2018. I currently work at a large U.S. bank as a full-stack engineer with a backend focus, using NextJS and MySQL.
 
 As an independent game developer, I published an MMO project which I continue to run. I also participated in four game jams, three of my submissions winning awards.
 
