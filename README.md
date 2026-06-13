@@ -2,7 +2,7 @@
 
 I'm Evan, a game developer and full-stack engineer based out of Birmingham, AL. I've been a full-time software engineer since 2018. I currently work at a game studio whose primary project is a social MMO, as a senior full-stack engineer.
 
-As an independent game developer, I published an MMO project which I continue to run. I also participated in four game jams, three of my submissions winning awards.
+As an independent game developer, I published an MMO project which I continue to run. I also participated in four game jams, most of my submissions winning awards.
 
 I maintain the ["Pixel Pigeon" game engine](https://github.com/evannorton/pixel-pigeon) which I use to develop my games.
 
